@@ -13,7 +13,7 @@ Welcome to my GitHub corner! I'm Jahir, a full-stack web developer passionate ab
 ### 📬 Get in Touch:
 - **Email**: [codewithjahir@gmail.com]
 - **LinkedIn**: [www.linkedin.com/in/jahirhussain786]
-- **Portfolio**: [Cooking🔥]
+- **Portfolio**: [https://jahirhussain786.github.io/portfolio/]
 
 ### 🎯 Fun Tidbits:
 - I thrive on solving tricky problems and cracking bugs.
